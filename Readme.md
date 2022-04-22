@@ -14,24 +14,24 @@ The two improvements implemented are Double DQN and Dueling DQN, the main notebo
 
 #### Main notebooks
 
-[Pong_DuelingDDQN](https://colab.research.google.com/drive/1KabSuK_YIPKQ6Fd-kiG6pt_xWFn9-898)
+[Pong_DuelingDDQN](https://colab.research.google.com/drive/1KabSuK_YIPKQ6Fd-kiG6pt_xWFn9-898) <br />
 [Breakout_DuelingDQN](https://colab.research.google.com/drive/1of6IMcNNDM_Z3a2_yqarv2VZtyXuuOM0)
 
 ### Ablation study notebooks
 
-[Pong_VanillaDQN](https://colab.research.google.com/drive/1H5oXF9V53H0k_CntttsdEYjUszWjsUps)
-[Pong_DDQN](https://colab.research.google.com/drive/1J9AYuypKxLEXRAxBh-i5Sr9QnMnlQLRP)
+[Pong_VanillaDQN](https://colab.research.google.com/drive/1H5oXF9V53H0k_CntttsdEYjUszWjsUps) <br />
+[Pong_DDQN](https://colab.research.google.com/drive/1J9AYuypKxLEXRAxBh-i5Sr9QnMnlQLRP) <br />
 [Pong_DuelingDQN](https://colab.research.google.com/drive/1y8V09rim1f5xCnB11lkISXNnN4f58FC4)
 
 ### RLLIB
 
 As said in the report, I had many bugs with RLLIB for Atari environments whose states are frame after succeding in the first time.
 
-[Breakout](https://colab.research.google.com/drive/1BCS4rA5gevomP4xfDJb_-7nEqQqcHpP9)
-[Pong_Determinisitc](https://colab.research.google.com/drive/1gaJeqtOWRPslySPkvADFVeH0AouIcYuM#scrollTo=rKURd8_bwlu4)
+[Breakout](https://colab.research.google.com/drive/1BCS4rA5gevomP4xfDJb_-7nEqQqcHpP9) <br />
+[Pong_Determinisitc](https://colab.research.google.com/drive/1gaJeqtOWRPslySPkvADFVeH0AouIcYuM#scrollTo=rKURd8_bwlu4) <br />
 [Breakout_Deterministic](https://colab.research.google.com/drive/1Mhz0VVJdVnRC-b_qlSOGDznUwq5jPmJQ#scrollTo=WChlYLblwe-0)
 
 ## Extra Task: PPO for CartPole-v0
 
-[PPO](https://colab.research.google.com/drive/1omU_pdV5P7GGVis_cTkfyUPbgYBM5VFZ#scrollTo=hgmUDEIL34KG)
+[PPO](https://colab.research.google.com/drive/1omU_pdV5P7GGVis_cTkfyUPbgYBM5VFZ#scrollTo=hgmUDEIL34KG) <br />
 [Resource](https://www.youtube.com/watch?v=HR8kQMTO8bk)
