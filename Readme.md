@@ -12,7 +12,7 @@ All the code was developped using Google Colab. The Readme include links for all
 
 The two improvements implemented are Double DQN and Dueling DQN, the main notebook contain the implementation of both improvements. The other 3 notebooks are copy of the main one but modified to include only one or zero improvement for ablation studies.
 
-#### Main notebooks
+### Main notebooks
 
 [Pong_DuelingDDQN](https://colab.research.google.com/drive/1KabSuK_YIPKQ6Fd-kiG6pt_xWFn9-898) <br />
 [Breakout_DuelingDQN](https://colab.research.google.com/drive/1of6IMcNNDM_Z3a2_yqarv2VZtyXuuOM0)
