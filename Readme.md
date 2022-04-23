@@ -28,7 +28,6 @@ The two improvements implemented are Double DQN and Dueling DQN, the main notebo
 As said in the report, I had many bugs with RLLIB for Atari environments whose states are frame after succeding in the first time.
 
 [Breakout](https://colab.research.google.com/drive/1BCS4rA5gevomP4xfDJb_-7nEqQqcHpP9) <br />
-[Pong_Determinisitc](https://colab.research.google.com/drive/1gaJeqtOWRPslySPkvADFVeH0AouIcYuM#scrollTo=rKURd8_bwlu4) <br />
 [Breakout_Deterministic](https://colab.research.google.com/drive/1Mhz0VVJdVnRC-b_qlSOGDznUwq5jPmJQ#scrollTo=WChlYLblwe-0)
 
 ## Extra Task: PPO for CartPole-v0
